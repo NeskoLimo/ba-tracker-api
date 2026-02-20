@@ -26,4 +26,4 @@ function requireRole(...roles) {
   };
 }
 
-module.exports = { authenticateToken, requireRole, JWT_SECRET };
+module.exports = router;
